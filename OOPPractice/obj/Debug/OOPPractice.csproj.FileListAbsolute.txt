@@ -1,0 +1,7 @@
+C:\Users\WeCanCodeIT\source\repos\OOPPractice\OOPPractice\bin\Debug\OOPPractice.exe.config
+C:\Users\WeCanCodeIT\source\repos\OOPPractice\OOPPractice\bin\Debug\OOPPractice.exe
+C:\Users\WeCanCodeIT\source\repos\OOPPractice\OOPPractice\bin\Debug\OOPPractice.pdb
+C:\Users\WeCanCodeIT\source\repos\OOPPractice\OOPPractice\obj\Debug\OOPPractice.csprojAssemblyReference.cache
+C:\Users\WeCanCodeIT\source\repos\OOPPractice\OOPPractice\obj\Debug\OOPPractice.csproj.CoreCompileInputs.cache
+C:\Users\WeCanCodeIT\source\repos\OOPPractice\OOPPractice\obj\Debug\OOPPractice.exe
+C:\Users\WeCanCodeIT\source\repos\OOPPractice\OOPPractice\obj\Debug\OOPPractice.pdb
